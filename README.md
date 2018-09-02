@@ -1,0 +1,5 @@
+- install heroku
+- add ssh
+- `heroku login`
+- `heroku keys:add`
+- `ssh -v git@heroku.com`
